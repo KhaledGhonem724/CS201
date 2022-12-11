@@ -809,15 +809,7 @@ public:
     }
 };
 int main() {
-    DoubleCircularLinkedList l;
-    l.insert_first(0);
-    l.insert_last(1);
-    l.display();
-    l.insert_first(2);
-    l.insert_last(3);
-    l.display();
-    l.deleteByValue(1);
-    l.display();
+
 }
 
 
